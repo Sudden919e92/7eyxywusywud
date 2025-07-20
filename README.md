@@ -18,11 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![project_license][license-shield]][license-url]
 
 
 
@@ -35,9 +30,9 @@
 <h3 align="center">soxialfetchx</h3>
 
   <p align="center">
-    project_description
+    Idk
     <br />
-    <a href="https://github.com/Sudden919e92/7eyxywusywud"><strong>Explore the docs Â»</strong></a>
+    <a href="https://github.com/Sudden919e92/7eyxywusywud"><strong> New Features soon </strong></a>
     <br />
     <br />
   </p>
