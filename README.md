@@ -15,5 +15,3 @@ ls
 If that file is there you can put
 
 python soxialfetchx.py
-
-repo_name
